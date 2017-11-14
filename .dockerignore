@@ -1,0 +1,11 @@
+.dockerignore
+.DS_Store
+.git
+.gitignore
+.go-pkg-cache
+.gopath
+.idea
+bundles
+packages
+README.md
+vendor/pkg
